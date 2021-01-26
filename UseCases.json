@@ -1,0 +1,38 @@
+{
+	"publisher": "Genesys IX",
+	"author": [
+		"Barry Grenon",
+	],
+	"language": "en",
+	"url": "https://github.com/bgrenon/UseCases",
+	"packages": {
+		"RN Automation": {
+			"globalID": "com.docs.genesys.Category:",
+			"publisherURL": "https://all.docs.genesys.com.Category:SMART_Cargo",
+			"description": "A data structure for handling Genesys Use Cases page schemas, using the Cargo and Page Forms extensions.",
+			"version": "0.1",
+			"pages": [
+				
+				{
+					"name": "SMART_UseCase",
+					"namespace": "NS_TEMPLATE",
+					"url": "https://raw.githubusercontent.com/bgrenon/RN-Automation/main/Package/Template%3ASMART_UseCase.mediawiki"
+				}
+				
+			],
+			"requiredExtensions": [
+				"Page Forms",
+				"Cargo"
+			]
+		}
+			],
+			"requiredExtensions": [
+				"Cargo",
+				"Page Forms"
+			],
+			"requiredPackages": [
+				"com.all.docs.genesys.Category:SMART_Cargo"
+			]
+		}
+	}
+}
