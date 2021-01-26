@@ -20,16 +20,6 @@
 				}
 				
 			],
-			"requiredExtensions": [
-				"Page Forms",
-				"Cargo"
-			]
-		}
-			],
-			"requiredExtensions": [
-				"Cargo",
-				"Page Forms"
-			],
 			"requiredPackages": [
 				"com.all.docs.genesys.Category:SMART_Cargo"
 			]
